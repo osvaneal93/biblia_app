@@ -1,16 +1,7 @@
 # biblia_app
 
-A new Flutter project.
 
-## Getting Started
+## App with redaction of biblie book, with python algorithm and Flutter to frontend app. Cubit in state management.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<br> <img height="600" src="https://github.com/osvaneal93/biblia_app/blob/main/bibliapy/img/Screenshot_1725370807.png"><br>
+<br> <img height="600" src="https://github.com/osvaneal93/biblia_app/blob/main/bibliapy/img/Screenshot_1725370829.png"><br>
